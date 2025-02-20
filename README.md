@@ -45,8 +45,8 @@ Visto che dimentico sempre qualcosa, decido di appuntarmi tutto ciò che manca i
 
   - Mi dirigo al reparto surgelati, prendendo che mi serve congelato, o decido di andare in un'altro supermercato, o in una macelleria per quanto riguarda la carne o una pescheria per il pesce.
 
-- Mi dirigo al reparto del latte, mettendo un paio di bottiglie nel cestino.
-- Mi dirigo al reparto biscotti e cereali, prendendo una scatola di quest'ultimi e mettendola nel cestino.
+  - Mi dirigo al reparto del latte, mettendo un paio di bottiglie nel cestino.
+  - Mi dirigo al reparto biscotti e cereali, prendendo una scatola di quest'ultimi e mettendola nel cestino.
 
 **7- Prima di andare alla cassa per pagare, mi dirigo al reparto animali, prendendo i croccantini per Ricky e riponendoli nel cestino.**
 
